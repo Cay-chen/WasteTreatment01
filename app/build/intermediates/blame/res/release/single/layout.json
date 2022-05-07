@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_base.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/activity_base.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/al_base_title.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/al_base_title.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_map_test.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/activity_map_test.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_query.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/activity_query.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_img.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/activity_img.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_gps.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/activity_gps.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_print.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/activity_print.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_test_scan.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/activity_test_scan.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_rui_ku1.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/activity_rui_ku1.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fragment_base.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/fragment_base.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_print_set.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/activity_print_set.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_trace.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/activity_trace.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_route.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/activity_route.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fragment_set.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/fragment_set.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/dialog_print.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/dialog_print.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_change_password.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/activity_change_password.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_collect.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/activity_collect.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_map.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/activity_map.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/base_title.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/base_title.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_login.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_list_view.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/activity_list_view.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_invalid_recyle.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/activity_invalid_recyle.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_print_test.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/activity_print_test.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_dai.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/activity_dai.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_test_framge.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/activity_test_framge.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_upload_image.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/activity_upload_image.xml"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/cay/AndroidStudioProjects/WasteTreatment/app/src/main/res/layout/activity_main.xml"
+    }
+]

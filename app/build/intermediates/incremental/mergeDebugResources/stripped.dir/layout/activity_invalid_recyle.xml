@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                   
+
+    
+
+           
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/color_background"
+        android:orientation="vertical" android:tag="layout/activity_invalid_recyle_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingStart="5dp"
+            android:paddingEnd="5dp">
+
+            <LinearLayout
+                android:gravity="center_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_30"
+                android:orientation="horizontal"
+                android:paddingStart="@dimen/dp_5"
+                android:paddingEnd="@dimen/dp_5">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="公司名称："
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/tv_gsmc"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="四川传达"
+                    android:textColor="@color/color_black"
+                    android:textSize="16sp" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/color_text_line" />
+
+            <LinearLayout
+                android:gravity="center_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_30"
+                android:orientation="horizontal"
+                android:paddingStart="@dimen/dp_5"
+                android:paddingEnd="@dimen/dp_5">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="废物编码："
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/tv_fwbm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="四川传达"
+                    android:textColor="@color/color_black"
+                    android:textSize="16sp" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/color_text_line" />
+
+            <LinearLayout
+                android:gravity="center_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_30"
+                android:orientation="horizontal"
+                android:paddingStart="@dimen/dp_5"
+                android:paddingEnd="@dimen/dp_5">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="废物种类："
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/tv_fwzl"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="四川传达"
+                    android:textColor="@color/color_black"
+                    android:textSize="16sp" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/color_text_line" />
+
+
+            <LinearLayout
+                android:gravity="center_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_30"
+                android:orientation="horizontal"
+                android:paddingStart="@dimen/dp_5"
+                android:paddingEnd="@dimen/dp_5">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="废物重量："
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/tv_fwzhongliang"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="四川传达"
+                    android:textColor="@color/color_black"
+                    android:textSize="16sp" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/color_text_line" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_marginTop="10dp">
+
+                <ImageView
+                    android:id="@+id/img_photo"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/bg_edit" />
+
+                <ImageView
+                    android:id="@+id/img_btn_del"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:src="@mipmap/cha"
+                    android:visibility="invisible" />
+
+                <ImageView
+                    android:id="@+id/img_btn_photo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:src="@mipmap/jia" />
+            </RelativeLayout>
+
+            <Button
+                android:id="@+id/up_data_btn"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/title_bar_high"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="15dp"
+                android:background="@drawable/login_btn"
+                android:text="@string/xiaohui"
+                android:textColor="@color/color_white"
+                android:textSize="18sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+         

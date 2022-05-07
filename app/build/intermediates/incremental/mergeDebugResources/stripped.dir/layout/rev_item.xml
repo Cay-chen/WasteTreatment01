@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="5dp"
+    android:layout_marginTop="5dp"
+    android:layout_marginEnd="5dp"
+    android:background="@drawable/rv_background_item"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:background="@drawable/rv_background_item1"
+        android:orientation="horizontal"
+        android:paddingStart="@dimen/dp_5"
+        android:paddingEnd="@dimen/dp_5">
+
+        <TextView
+            android:id="@+id/tv_gongsi"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="四川大学华西研究所"
+            android:textColor="@color/color_white"
+            android:textSize="16sp" />
+
+
+        <TextView
+            android:id="@+id/tv_zhongliang"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:gravity="end"
+            android:text="2.63KG"
+            android:textColor="@color/color_white"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_30"
+        android:orientation="horizontal"
+        android:paddingStart="@dimen/dp_5"
+        android:paddingEnd="@dimen/dp_5">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/fw_leixing"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_leixing"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="兔子、青蛙、老鼠"
+            android:textColor="@color/color_black"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_30"
+        android:orientation="horizontal"
+        android:paddingStart="@dimen/dp_5"
+        android:paddingEnd="@dimen/dp_5">
+
+        <TextView
+            android:id="@+id/text_tiaoma12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/fw_biaoshi"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/text_code"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="FW000202001060596"
+            android:textColor="@color/color_black"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="31dp"
+        android:orientation="horizontal"
+        android:paddingStart="@dimen/dp_5"
+        android:paddingEnd="@dimen/dp_5">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/yunshu_cars"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/text_chepai"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1号运输车"
+            android:textColor="@color/color_black"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_30"
+        android:orientation="horizontal"
+        android:paddingStart="@dimen/dp_5"
+        android:paddingEnd="@dimen/dp_5">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/shouji_time"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/text_sj_time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2020-02-05 13：21：59"
+            android:textColor="@color/color_black"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <!--<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_30"
+        android:orientation="horizontal"
+        android:paddingStart="@dimen/dp_5"
+        android:paddingEnd="@dimen/dp_5">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/rukui_time"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/text_tiaoma1355"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2020-02-05 16：35：21"
+            android:textColor="@color/color_black"
+            android:textSize="16sp" />
+    </LinearLayout>-->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_30"
+        android:paddingStart="@dimen/dp_5"
+        android:paddingEnd="@dimen/dp_5">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toStartOf="@+id/tv_siji"
+            android:text="@string/driver"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_siji"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="20dp"
+            android:layout_toStartOf="@+id/tv_sjr"
+            android:text="张三"
+            android:textColor="@color/color_black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_sjr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toStartOf="@+id/tv_shoujiren"
+            android:text="@string/collect_people"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_shoujiren"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="25dp"
+            android:text="李四"
+            android:textColor="@color/color_black"
+            android:textSize="16sp" />
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    
+
+           
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ui.MapActivity" android:tag="layout/activity_map_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+    <com.baidu.mapapi.map.MapView
+      android:id="@+id/baidu_map"
+      android:layout_width="match_parent"
+        android:layout_height="match_parent"
+      android:clickable="true"/>
+     </LinearLayout>
+         

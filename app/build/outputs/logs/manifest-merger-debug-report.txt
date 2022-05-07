@@ -1,0 +1,373 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:2:1-76:12
+INJECTED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:2:1-76:12
+INJECTED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:2:1-76:12
+INJECTED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:2:1-76:12
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:3.0.0-beta11] /Users/user/.gradle/caches/transforms-2/files-2.1/65cd9701097ba0930af650bd40b96c6c/jetified-BaseRecyclerViewAdapterHelper-3.0.0-beta11/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.databinding:databinding-adapters:3.6.3] /Users/user/.gradle/caches/transforms-2/files-2.1/3f05bdac51b0637b8985dc7acf4ab5c1/databinding-adapters-3.6.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.6.3] /Users/user/.gradle/caches/transforms-2/files-2.1/9f7f8b624bee85c2ebb437a36fd57341/databinding-runtime-3.6.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.wildma:PictureSelector:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/41831bce35879408f421ce252bbfed4d/jetified-PictureSelector-1.1.3/AndroidManifest.xml:2:1-34:12
+MERGED from [me.weyye.hipermission:library:1.0.7] /Users/user/.gradle/caches/transforms-2/files-2.1/5d382ffb3b8eaf563eb10f2f7d93b91f/jetified-library-1.0.7/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/380cbbd0623e9b22e21961fc6ec82b14/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/user/.gradle/caches/transforms-2/files-2.1/9a40f011fd183758c6b9187673a20463/jetified-glide-4.10.0/AndroidManifest.xml:2:1-12:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/user/.gradle/caches/transforms-2/files-2.1/536c5ab767eeba535fb0eaaeb12796ae/jetified-rxandroid-2.0.2/AndroidManifest.xml:15:1-21:12
+MERGED from [com.zhy:okhttputils:2.6.2] /Users/user/.gradle/caches/transforms-2/files-2.1/94cc402dd0b4c9d9cfb3e894dfdb26d5/jetified-okhttputils-2.6.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/4764869116b7944d884a78eb3b5d999f/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:3.6.3] /Users/user/.gradle/caches/transforms-2/files-2.1/d7e1dbd864e0a6730701e1279eb2c5bf/jetified-viewbinding-3.6.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7eb3e9033e20967dc4b6eab4b9d34b59/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/a627ba2b0fb7cab1458068884dcfd7e5/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/369c371dbc36cd3420e0891af4dc30b8/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/b685d122498cf50e728d648d063a2ff6/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/3584c755b13ff246a30ea06b73bd9d78/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/d1290085211f6ca31e4b44ad501b0e7c/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/db341947bb3b430f2ccfc05cfed8623a/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/69b157e8ca7c4f8e65106af271a2dd62/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/ee8663f4341a41303331ea0b304242d0/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/34b4ab0d8b65ac74ddd00d45b26dd963/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/4dea87d08cf4eca2be6818de5406de80/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/0e4335c82d4d573388d62295e89eaaed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/a87a91cfc12796be4a5399f6708c1bed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/user/.gradle/caches/transforms-2/files-2.1/580909971398bf855d9ca413681ec168/jetified-gifdecoder-4.10.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/9c87d4ce634b90f093cf672ae75a3e2d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/f2e8952936b7109d6ac9ab1e40e3d573/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/30612fa1f33fcbb3e456c3a5f852366f/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/9c0d2720907bb8bd5d5976efee735314/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/d00c90699ae27cc1e1ce5e4b3e530617/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/13ac386f95e101744ae5f7d486caaa8c/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:2:1-76:12
+INJECTED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:2:1-76:12
+INJECTED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:2:1-76:12
+	package
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:4:5-34
+		INJECTED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:2:1-76:12
+		INJECTED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:2:1-76:12
+		INJECTED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:8:5-80
+MERGED from [com.github.wildma:PictureSelector:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/41831bce35879408f421ce252bbfed4d/jetified-PictureSelector-1.1.3/AndroidManifest.xml:13:5-80
+MERGED from [com.github.wildma:PictureSelector:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/41831bce35879408f421ce252bbfed4d/jetified-PictureSelector-1.1.3/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:9:5-81
+MERGED from [com.github.wildma:PictureSelector:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/41831bce35879408f421ce252bbfed4d/jetified-PictureSelector-1.1.3/AndroidManifest.xml:12:5-81
+MERGED from [com.github.wildma:PictureSelector:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/41831bce35879408f421ce252bbfed4d/jetified-PictureSelector-1.1.3/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:11:5-89
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:11:22-86
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.preference.READ_PHONE_STATE
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:13:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:15:22-73
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:16:5-77
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:16:22-74
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:17:5-85
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:17:22-82
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:18:5-95
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:18:22-92
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:19:5-74
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:19:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:20:5-97
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:20:22-78
+application
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:22:5-74:19
+MERGED from [com.github.wildma:PictureSelector:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/41831bce35879408f421ce252bbfed4d/jetified-PictureSelector-1.1.3/AndroidManifest.xml:15:5-32:19
+MERGED from [com.github.wildma:PictureSelector:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/41831bce35879408f421ce252bbfed4d/jetified-PictureSelector-1.1.3/AndroidManifest.xml:15:5-32:19
+MERGED from [me.weyye.hipermission:library:1.0.7] /Users/user/.gradle/caches/transforms-2/files-2.1/5d382ffb3b8eaf563eb10f2f7d93b91f/jetified-library-1.0.7/AndroidManifest.xml:11:5-19:19
+MERGED from [me.weyye.hipermission:library:1.0.7] /Users/user/.gradle/caches/transforms-2/files-2.1/5d382ffb3b8eaf563eb10f2f7d93b91f/jetified-library-1.0.7/AndroidManifest.xml:11:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/380cbbd0623e9b22e21961fc6ec82b14/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/380cbbd0623e9b22e21961fc6ec82b14/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/user/.gradle/caches/transforms-2/files-2.1/9a40f011fd183758c6b9187673a20463/jetified-glide-4.10.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/user/.gradle/caches/transforms-2/files-2.1/9a40f011fd183758c6b9187673a20463/jetified-glide-4.10.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/34b4ab0d8b65ac74ddd00d45b26dd963/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/34b4ab0d8b65ac74ddd00d45b26dd963/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/0e4335c82d4d573388d62295e89eaaed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/0e4335c82d4d573388d62295e89eaaed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/user/.gradle/caches/transforms-2/files-2.1/580909971398bf855d9ca413681ec168/jetified-gifdecoder-4.10.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/user/.gradle/caches/transforms-2/files-2.1/580909971398bf855d9ca413681ec168/jetified-gifdecoder-4.10.0/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/34b4ab0d8b65ac74ddd00d45b26dd963/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:26:9-41
+	tools:ignore
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:30:9-48
+	android:roundIcon
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:27:9-54
+	android:icon
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:25:9-41
+	android:allowBackup
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:29:9-40
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:23:9-50
+activity#com.waste.treatment.ui.test.TraceActivity
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:31:9-68
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:31:19-56
+activity#com.waste.treatment.ui.InvalidRecyleActivity
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:32:9-62
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:32:19-59
+activity#com.waste.treatment.ui.QueryActivity
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:33:9-54
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:33:19-51
+activity#com.waste.treatment.ui.test.TestScanActivity
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:34:9-62
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:34:19-59
+activity#com.waste.treatment.ui.RouteActivity
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:36:9-54
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:36:19-51
+activity#com.waste.treatment.ui.RuiKuActivity
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:37:9-54
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:37:19-51
+activity#com.waste.treatment.ui.PrintSetActivity
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:38:9-57
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:38:19-54
+activity#com.waste.treatment.ui.ChangePasswordActivity
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:39:9-63
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:39:19-60
+activity#com.waste.treatment.ui.test.PrintTestActivity
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:40:9-63
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:40:19-60
+activity#com.waste.treatment.ui.CollectActivity
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:41:9-56
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:41:19-53
+activity#com.waste.treatment.ui.ScanActivity
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:42:9-53
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:42:19-50
+activity#com.waste.treatment.ui.MainActivity
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:43:9-53
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:43:19-50
+activity#com.waste.treatment.ui.LoginActivity
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:44:9-50:20
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:44:19-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:45:13-49:29
+action#android.intent.action.MAIN
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:48:27-74
+service#com.baidu.location.f
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:52:9-55:41
+	android:process
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:55:13-38
+	android:enabled
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:54:13-35
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:53:13-48
+service#com.baidu.trace.LBSTraceService
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:57:9-61:19
+	android:process
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:60:13-38
+	android:enabled
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:59:13-35
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:58:13-59
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:62:9-64:64
+	android:value
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:64:13-61
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:63:13-52
+receiver#com.waste.treatment.receiver.MyReceiver
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:65:9-72:20
+	android:enabled
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:67:13-35
+	android:exported
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:68:13-36
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:66:13-48
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:69:13-71:29
+	android:priority
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:69:28-51
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:70:17-78
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:70:25-76
+service#com.waste.treatment.service.MyService
+ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:73:9-53
+	android:name
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml:73:18-51
+uses-sdk
+INJECTED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml
+INJECTED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:3.0.0-beta11] /Users/user/.gradle/caches/transforms-2/files-2.1/65cd9701097ba0930af650bd40b96c6c/jetified-BaseRecyclerViewAdapterHelper-3.0.0-beta11/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:3.0.0-beta11] /Users/user/.gradle/caches/transforms-2/files-2.1/65cd9701097ba0930af650bd40b96c6c/jetified-BaseRecyclerViewAdapterHelper-3.0.0-beta11/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.databinding:databinding-adapters:3.6.3] /Users/user/.gradle/caches/transforms-2/files-2.1/3f05bdac51b0637b8985dc7acf4ab5c1/databinding-adapters-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.6.3] /Users/user/.gradle/caches/transforms-2/files-2.1/3f05bdac51b0637b8985dc7acf4ab5c1/databinding-adapters-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.3] /Users/user/.gradle/caches/transforms-2/files-2.1/9f7f8b624bee85c2ebb437a36fd57341/databinding-runtime-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.3] /Users/user/.gradle/caches/transforms-2/files-2.1/9f7f8b624bee85c2ebb437a36fd57341/databinding-runtime-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [com.github.wildma:PictureSelector:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/41831bce35879408f421ce252bbfed4d/jetified-PictureSelector-1.1.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wildma:PictureSelector:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/41831bce35879408f421ce252bbfed4d/jetified-PictureSelector-1.1.3/AndroidManifest.xml:7:5-9:41
+MERGED from [me.weyye.hipermission:library:1.0.7] /Users/user/.gradle/caches/transforms-2/files-2.1/5d382ffb3b8eaf563eb10f2f7d93b91f/jetified-library-1.0.7/AndroidManifest.xml:7:5-9:41
+MERGED from [me.weyye.hipermission:library:1.0.7] /Users/user/.gradle/caches/transforms-2/files-2.1/5d382ffb3b8eaf563eb10f2f7d93b91f/jetified-library-1.0.7/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/380cbbd0623e9b22e21961fc6ec82b14/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/380cbbd0623e9b22e21961fc6ec82b14/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/user/.gradle/caches/transforms-2/files-2.1/9a40f011fd183758c6b9187673a20463/jetified-glide-4.10.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/user/.gradle/caches/transforms-2/files-2.1/9a40f011fd183758c6b9187673a20463/jetified-glide-4.10.0/AndroidManifest.xml:6:5-8:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/user/.gradle/caches/transforms-2/files-2.1/536c5ab767eeba535fb0eaaeb12796ae/jetified-rxandroid-2.0.2/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/user/.gradle/caches/transforms-2/files-2.1/536c5ab767eeba535fb0eaaeb12796ae/jetified-rxandroid-2.0.2/AndroidManifest.xml:19:5-43
+MERGED from [com.zhy:okhttputils:2.6.2] /Users/user/.gradle/caches/transforms-2/files-2.1/94cc402dd0b4c9d9cfb3e894dfdb26d5/jetified-okhttputils-2.6.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.zhy:okhttputils:2.6.2] /Users/user/.gradle/caches/transforms-2/files-2.1/94cc402dd0b4c9d9cfb3e894dfdb26d5/jetified-okhttputils-2.6.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/4764869116b7944d884a78eb3b5d999f/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/4764869116b7944d884a78eb3b5d999f/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:3.6.3] /Users/user/.gradle/caches/transforms-2/files-2.1/d7e1dbd864e0a6730701e1279eb2c5bf/jetified-viewbinding-3.6.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:3.6.3] /Users/user/.gradle/caches/transforms-2/files-2.1/d7e1dbd864e0a6730701e1279eb2c5bf/jetified-viewbinding-3.6.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7eb3e9033e20967dc4b6eab4b9d34b59/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/7eb3e9033e20967dc4b6eab4b9d34b59/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/a627ba2b0fb7cab1458068884dcfd7e5/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/a627ba2b0fb7cab1458068884dcfd7e5/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/369c371dbc36cd3420e0891af4dc30b8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/369c371dbc36cd3420e0891af4dc30b8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/b685d122498cf50e728d648d063a2ff6/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/b685d122498cf50e728d648d063a2ff6/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/3584c755b13ff246a30ea06b73bd9d78/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/3584c755b13ff246a30ea06b73bd9d78/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/d1290085211f6ca31e4b44ad501b0e7c/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/d1290085211f6ca31e4b44ad501b0e7c/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/db341947bb3b430f2ccfc05cfed8623a/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/db341947bb3b430f2ccfc05cfed8623a/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/69b157e8ca7c4f8e65106af271a2dd62/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/69b157e8ca7c4f8e65106af271a2dd62/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/ee8663f4341a41303331ea0b304242d0/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/ee8663f4341a41303331ea0b304242d0/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/34b4ab0d8b65ac74ddd00d45b26dd963/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/34b4ab0d8b65ac74ddd00d45b26dd963/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/4dea87d08cf4eca2be6818de5406de80/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/4dea87d08cf4eca2be6818de5406de80/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/0e4335c82d4d573388d62295e89eaaed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/0e4335c82d4d573388d62295e89eaaed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/a87a91cfc12796be4a5399f6708c1bed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/a87a91cfc12796be4a5399f6708c1bed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/user/.gradle/caches/transforms-2/files-2.1/580909971398bf855d9ca413681ec168/jetified-gifdecoder-4.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/user/.gradle/caches/transforms-2/files-2.1/580909971398bf855d9ca413681ec168/jetified-gifdecoder-4.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/9c87d4ce634b90f093cf672ae75a3e2d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/user/.gradle/caches/transforms-2/files-2.1/9c87d4ce634b90f093cf672ae75a3e2d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/f2e8952936b7109d6ac9ab1e40e3d573/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/f2e8952936b7109d6ac9ab1e40e3d573/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/30612fa1f33fcbb3e456c3a5f852366f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/30612fa1f33fcbb3e456c3a5f852366f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/9c0d2720907bb8bd5d5976efee735314/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/9c0d2720907bb8bd5d5976efee735314/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/d00c90699ae27cc1e1ce5e4b3e530617/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/d00c90699ae27cc1e1ce5e4b3e530617/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/13ac386f95e101744ae5f7d486caaa8c/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/user/.gradle/caches/transforms-2/files-2.1/13ac386f95e101744ae5f7d486caaa8c/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml
+INJECTED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/Downloads/WasteTreatment/WasteTreatment/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [com.github.wildma:PictureSelector:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/41831bce35879408f421ce252bbfed4d/jetified-PictureSelector-1.1.3/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [com.github.wildma:PictureSelector:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/41831bce35879408f421ce252bbfed4d/jetified-PictureSelector-1.1.3/AndroidManifest.xml:11:22-62
+activity#com.wildma.pictureselector.PictureSelectActivity
+ADDED from [com.github.wildma:PictureSelector:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/41831bce35879408f421ce252bbfed4d/jetified-PictureSelector-1.1.3/AndroidManifest.xml:19:9-21:75
+	android:theme
+		ADDED from [com.github.wildma:PictureSelector:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/41831bce35879408f421ce252bbfed4d/jetified-PictureSelector-1.1.3/AndroidManifest.xml:21:13-72
+	android:name
+		ADDED from [com.github.wildma:PictureSelector:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/41831bce35879408f421ce252bbfed4d/jetified-PictureSelector-1.1.3/AndroidManifest.xml:20:13-76
+provider#androidx.core.content.FileProvider
+ADDED from [com.github.wildma:PictureSelector:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/41831bce35879408f421ce252bbfed4d/jetified-PictureSelector-1.1.3/AndroidManifest.xml:23:9-31:20
+	android:grantUriPermissions
+		ADDED from [com.github.wildma:PictureSelector:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/41831bce35879408f421ce252bbfed4d/jetified-PictureSelector-1.1.3/AndroidManifest.xml:27:13-47
+	android:authorities
+		ADDED from [com.github.wildma:PictureSelector:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/41831bce35879408f421ce252bbfed4d/jetified-PictureSelector-1.1.3/AndroidManifest.xml:25:13-64
+	android:exported
+		ADDED from [com.github.wildma:PictureSelector:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/41831bce35879408f421ce252bbfed4d/jetified-PictureSelector-1.1.3/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [com.github.wildma:PictureSelector:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/41831bce35879408f421ce252bbfed4d/jetified-PictureSelector-1.1.3/AndroidManifest.xml:24:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.github.wildma:PictureSelector:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/41831bce35879408f421ce252bbfed4d/jetified-PictureSelector-1.1.3/AndroidManifest.xml:28:13-30:54
+	android:resource
+		ADDED from [com.github.wildma:PictureSelector:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/41831bce35879408f421ce252bbfed4d/jetified-PictureSelector-1.1.3/AndroidManifest.xml:30:17-51
+	android:name
+		ADDED from [com.github.wildma:PictureSelector:1.1.3] /Users/user/.gradle/caches/transforms-2/files-2.1/41831bce35879408f421ce252bbfed4d/jetified-PictureSelector-1.1.3/AndroidManifest.xml:29:17-67
+activity#me.weyye.hipermission.PermissionActivity
+ADDED from [me.weyye.hipermission:library:1.0.7] /Users/user/.gradle/caches/transforms-2/files-2.1/5d382ffb3b8eaf563eb10f2f7d93b91f/jetified-library-1.0.7/AndroidManifest.xml:14:9-18:57
+	android:screenOrientation
+		ADDED from [me.weyye.hipermission:library:1.0.7] /Users/user/.gradle/caches/transforms-2/files-2.1/5d382ffb3b8eaf563eb10f2f7d93b91f/jetified-library-1.0.7/AndroidManifest.xml:17:13-49
+	android:configChanges
+		ADDED from [me.weyye.hipermission:library:1.0.7] /Users/user/.gradle/caches/transforms-2/files-2.1/5d382ffb3b8eaf563eb10f2f7d93b91f/jetified-library-1.0.7/AndroidManifest.xml:16:13-63
+	android:theme
+		ADDED from [me.weyye.hipermission:library:1.0.7] /Users/user/.gradle/caches/transforms-2/files-2.1/5d382ffb3b8eaf563eb10f2f7d93b91f/jetified-library-1.0.7/AndroidManifest.xml:18:13-54
+	android:name
+		ADDED from [me.weyye.hipermission:library:1.0.7] /Users/user/.gradle/caches/transforms-2/files-2.1/5d382ffb3b8eaf563eb10f2f7d93b91f/jetified-library-1.0.7/AndroidManifest.xml:15:13-68
